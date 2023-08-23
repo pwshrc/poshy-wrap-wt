@@ -1,0 +1,3 @@
+windows-terminal
+poshy-wrap
+pwshrc
